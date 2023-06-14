@@ -1,3 +1,8 @@
+You have to use your own API key to run this Project.
+For that You have to create .env.local file outside in this project folder.
+And inside that write 
+REACT_APP_NEWS_API='write or paste your api key'
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
