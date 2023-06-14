@@ -1,7 +1,7 @@
 You have to use your own API key to run this Project.
 For that You have to create .env.local file outside in this project folder.
 And inside that write 
-REACT_APP_NEWS_API='write or paste your api key'
+REACT_APP_NEWS_API='write or paste your api key here inside this quotes'
 
 # Getting Started with Create React App
 
